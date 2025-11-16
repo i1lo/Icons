@@ -67,11 +67,12 @@ Este projeto está disponível para uso livre em projetos pessoais e comerciais.
 
 ## 🙏 Créditos
 
-- **Criadores**: [Hax](https://github.com/6hax) & [Felipe](https://github.com/FelipeSilva72)
+- **Criadores**: [Hax](https://github.com/i1lo) & [Felipe](https://github.com/FelipeSilva72)
 
 ---
 
 **⭐ Se este projeto foi útil para você, considere dar uma estrela!**
+
 
 
 
